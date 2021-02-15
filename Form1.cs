@@ -23,8 +23,7 @@ namespace Graphics_Program_Reversi
 	 *  - HighlightPossibleMovesSUB1 --> HighlightPossibleMoves
 	 *  - FlipRays --> FlipOctaRay
 	 *  - FlipRaysSUB1 --> FlipRay
-	 *  
-	 *  - int end @CheckIfGameEnded --> winnerteam
+	 *  - int variable end @CheckIfGameEnded --> winnerteam
 	*/
 
 	public partial class Form1 : Form
