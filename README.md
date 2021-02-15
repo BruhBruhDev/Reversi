@@ -2,7 +2,7 @@
 
 A small school project made in a week
 
-The main code is located in Form1.Designer.cs
+The main code is located in Form1.cs
 
 You can find the compiled executable in:
 
