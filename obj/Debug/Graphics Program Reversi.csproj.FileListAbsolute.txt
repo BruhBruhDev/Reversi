@@ -1,0 +1,10 @@
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\bin\Debug\Graphics Program Reversi.exe.config
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\bin\Debug\Graphics Program Reversi.exe
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\bin\Debug\Graphics Program Reversi.pdb
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics Program Reversi.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics_Program_Reversi.Form1.resources
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics_Program_Reversi.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics Program Reversi.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics Program Reversi.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics Program Reversi.exe
+C:\Users\edgar\OneDrive\Projects\Programieren & Web\Visual Studio\Graphics Program Reversi\obj\Debug\Graphics Program Reversi.pdb
