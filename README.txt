@@ -1,11 +1,9 @@
 # Reversi
 
-This is a school project . If you find any bugs let me now!
+This is a school project which was made in a timeframe of a week. If you find any bugs let me now!
 
 The main code is located in Form1.cs
-
 You can find the compiled executable in:
-
 bin/Debug/Graphics Program Reversi.exe
 
 
