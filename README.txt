@@ -1,4 +1,3 @@
-# Reversi
 
 This is a school project which was made in a timeframe of a week. If you find any bugs let me now!
 
